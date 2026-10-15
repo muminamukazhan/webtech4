@@ -2,7 +2,7 @@
 
 **Student:** Mumina Mukazhan
 **Group:** SE-2530
-**Live site:** 
+**Live site:** https://muminamukazhan.github.io/webtech4/
 **Repository:** https://github.com/muminamukazhan/webtech4
 
 ## Description
